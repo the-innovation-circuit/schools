@@ -44,7 +44,22 @@ It's hard for us to put the vibe of an Innovation Circuit event in words, so her
 
 ## Resources Provided
 
+We provide every Innovation Circuit event with the following:
+
+- A kit of electronics hardware (worth approx. USD $5,000) for students to use during the event
+  - It includes things such as robots and Arduinos
+  - We also provide an inventory system
+- We provide the budget for food for attendees
+- We provide welcome packets full of swag from our sponsors
+- Workshops to deliver to attendees
+- Mentorship and guidance from our experienced team
+- Marketing materials
+
+All we ask that you provide is a large room and the day-of manpower. 
+
 ## The Process
+
+
 
 ## Get Started Now
 
