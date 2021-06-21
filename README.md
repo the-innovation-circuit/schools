@@ -59,9 +59,26 @@ All we ask that you provide is a large room and the day-of manpower.
 
 ## The Process
 
+We ask that you apply to host an event with us at least six weeks in advance of the day you'd like to host it.
 
+The process that will follow is as follows:
+
+**6 weeks out:** we have our first meeting and introduce the entire project to you. These meetings will become weekly. We define how you'd like your event to look like. 
+
+**4 weeks out:** We provide you with our final set of custom resources (such as marketing materials and workshops). We run through them in our meeting.
+
+**2 weeks out:** We confirm the event details and order the food.
+
+**1 week out:** You collect our physical resources from us.
+
+**Day-of:** We send a representative to your event to support you if logistically possible.
+
+This process is incredibly flexible and we expect it to be different for every event we support.
 
 ## Get Started Now
 
+Interested? We're still in beta but we'd love to add you to our roster! Email us at [`contact@innovationcircuit.co`](mailto:contact@innovationcircuit.co). We'll do our best to respond within 72 hours and set up a meeting.
+
 ## Frequently Asked Questions
 
+WIP.
