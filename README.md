@@ -1,4 +1,4 @@
-# Bring the Innovation Circuit to Your School
+<h1> Bring the Innovation Circuit to Your School </h1>
 
 The Innovation Circuit is a collective of short events that introduce beginners to making with computers. We work with schools to bring the event to their school and provide all the resources they'll need.
 
