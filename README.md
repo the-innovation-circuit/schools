@@ -78,7 +78,3 @@ This process is incredibly flexible and we expect it to be different for every e
 ## Get Started Now
 
 Interested? We're still in beta but we'd love to add you to our roster! Email us at [`contact@innovationcircuit.co`](mailto:contact@innovationcircuit.co). We'll do our best to respond within 72 hours and set up a meeting.
-
-## Frequently Asked Questions
-
-WIP.
