@@ -38,9 +38,15 @@ It's hard for us to put the vibe of an Innovation Circuit event in words, so her
 
 ### Students Love It
 
+A reason why Innovation Circuit is a unique initiative is that students love it! We have received a high community engagement and participation through our two years of experience in organising successful events. Students love our events as they can relate to them and our events are highly engaging whilst being educational and informative.
+
 ### Easy to Launch
 
+The delivery of our events to schools is simple for schools, and does not need any cost needed from the school. Instead, all we need is a provided venue and day-of-manpower, and we will be able to run Innovation Circuit with provided electronics hardware, food, workshops, and prizes in no time!
+
 ### Students Learn A Lot
+
+Not only are Innovation Circuit events great fun, they're also very informative with students learning a lot. Our workshops were developed in consultation with the Hack Foundation, an international organisation that has years of experience developing a programming curriculum. They have been designed to teach new topics in relatable ways for students.
 
 ### Attracts All Sorts of Students
 
