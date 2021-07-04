@@ -40,7 +40,7 @@ It's hard for us to put the vibe of an Innovation Circuit event in words, so her
 
 A reason why Innovation Circuit is a unique initiative is that students love it! We have received a high community engagement and participation through our two years of experience in organising successful events. Students love our events as they can relate to them and our events are highly engaging whilst being educational and informative.
 
-Best of all, students from a wide range of backgrounds love the Innovation Circuit. 60% of the signups for our predecessor event were female which the Innovation Circuit was built on top of. Furthermore, we also had a wide range of people of different ages and ethnicities attend the event.
+Best of all, our use of pop culture and our friendly marketing means that students from a wide range of backgrounds love the Innovation Circuit. 60% of the signups for our predecessor event were female which the Innovation Circuit was built on top of. Furthermore, we also had a wide range of people of different ages and ethnicities attend the event.
 
 ### Easy to Launch
 
@@ -49,10 +49,6 @@ The delivery of our events to schools is simple for schools, and does not need a
 ### Students Learn A Lot
 
 Not only are Innovation Circuit events great fun, they're also very informative with students learning a lot. Our workshops were developed in consultation with the Hack Foundation, an international organisation that has years of experience developing a programming curriculum. They have been designed to teach new topics in relatable ways for students.
-
-### 
-
-Our use of pop culture and our friendly marketing means that students from
 
 ## Resources Provided
 
