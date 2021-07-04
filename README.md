@@ -40,6 +40,8 @@ It's hard for us to put the vibe of an Innovation Circuit event in words, so her
 
 ### Easy to Launch
 
+### Students Learn A Lot
+
 ### Attracts All Sorts of Students
 
 ## Resources Provided
