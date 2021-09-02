@@ -1,5 +1,7 @@
 <h1> Bring the Innovation Circuit to Your School </h1>
 
+> This page is pending an update! Watch this space!
+
 The Innovation Circuit is a collective of short events that introduce beginners to making with computers. We work with schools to bring the event to their school and provide all the resources they'll need.
 
 An Innovation Circuit event looks something like this:
